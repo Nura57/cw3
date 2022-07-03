@@ -1,4 +1,4 @@
-# schoolhero
+# cw3
 
 ## Project setup
 ```
